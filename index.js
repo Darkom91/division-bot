@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 var prefix = "dv"
 
-bot.login("NTcwMjY5MjYzMjI3NjUwMDc4.XL-PXQ.30CfGjfoUyvN8zEGtF9vQPQ6gHs")
+bot.login("NTcwMjY5MjYzMjI3NjUwMDc4.XMNmVQ.OsMLuFNJkwcjG1ho6DqipdOnwUI")
 
 bot.on("ready", () =>{
     console.log("je suis prêt")
